@@ -49,7 +49,11 @@ git init
 git add <имя файла>
 ```
 
-git add
+Для **просмотра состояния репозитория** необходимо в папке с репозиторием написать команду *git status*. Станет видно были ли изменения в файлах.
+```sh
+git status
+```
+
 git commit -m "Message"
 git log
 git log --oneline
