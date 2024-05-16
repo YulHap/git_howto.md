@@ -83,7 +83,7 @@ git branch
 ```
 
 ```sh
-git branch <имя новой ветки>
+git branch <имя_новой_ветки>
 ```
 
 ```sh
